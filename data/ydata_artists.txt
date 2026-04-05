@@ -1,0 +1,2631 @@
+1000004	'Til Tuesday	electronic
+1000006	.38 Special	pop
+1000012	10,000 Maniacs	metal
+1000023	10cc	electronic
+1000026	112	electronic
+1000084	The 2 Live Crew	rock
+1000094	20/20	electronic
+1000143	311	rock
+1000163	4 Non Blondes	pop
+1000195	The 6ths	rock
+1000199	7 Year Bitch	punk
+1000202	702	electronic
+1000235	A Flock Of Seagulls	pop
+1000247	A Tribe Called Quest	hiphop
+1000252	A-Ha	electronic
+1000264	A.F.I.	electronic
+1000276	Aaliyah	pop
+1000286	Abba	pop
+1000292	ABC	electronic
+1000297	Paula Abdul	pop
+1000322	Abraxas Pool	latin
+1000335	AC/DC	rock
+1000342	Accept	electronic
+1000353	Ace Of Base	rock
+1000362	Acid Bath	electronic
+1000370	George Acosta	latin
+1000398	Bryan Adams	rock
+1000412	Yolanda Adams	soul
+1000414	Barry Adamson	rock
+1000454	Aerosmith	rock
+1000462	Afghan Whigs	folk
+1000477	After 7	electronic
+1000490	Agent Orange	electronic
+1000525	Air [Electronica]	electronic
+1000529	Air Supply	rock
+1000559	Alabama	pop
+1000656	Alice In Chains	rock
+1000669	All	electronic
+1000686	Gary Allan	rock
+1000738	Amy Allison	pop
+1000746	The Allman Brothers Band	rock
+1000753	Allure	electronic
+1000786	Alphaville	electronic
+1000820	Dave Alvin	rock
+1000843	Amber	pop
+1000853	Ambrosia	electronic
+1000861	America	country
+1000879	American Music Club	rock
+1000903	Amorphis	electronic
+1000905	Tori Amos	rock
+1000909	The Amps	electronic
+1000963	Laurie Anderson	country
+1001063	Adam & The Ants	rock
+1001073	Marc Anthony	rock
+1001077	Anthrax	rock
+1001123	Aphex Twin	electronic
+1001137	Fiona Apple	electronic
+1001138	The Apples In Stereo	electronic
+1001180	Archers Of Loaf	rock
+1001183	Jann Arden	rock
+1001224	Armored Saint	metal
+1001236	Louis Armstrong	jazz
+1001271	Art Of Noise	electronic
+1001275	Artful Dodger	folk
+1001279	Joseph Arthur	folk
+1001296	Ash	electronic
+1001301	Ashanti	soul
+1001318	Asia	folk
+1001331	Ass Ponys	punk
+1001367	Chet Atkins	country
+1001371	Atlanta Rhythm Section	r&b
+1001373	Atlantic Starr	rock
+1001400	Audio Adrenaline	electronic
+1001431	Patti Austin	country
+1001434	Autechre	electronic
+1001457	Average White Band	rock
+1001478	David Axelrod	electronic
+1001510	Aztec Camera	electronic
+1001527	The B-52s	rock
+1001562	Babes In Toyland	pop
+1001584	Babyface	pop
+1001606	Bachman-Turner Overdrive	rock
+1001612	Backstreet Boys	pop
+1001622	Bad Brains	punk
+1001624	Bad Company	rock
+1001629	Bad Manners	folk
+1001632	Bad Religion	rock
+1001641	Badfinger	rock
+1001647	The Badlees	rock
+1001649	Erykah Badu	soul
+1001661	Baha Men	reggae
+1001682	Bailter Space	electronic
+1001700	Anita Baker	folk
+1001779	Bananarama	reggae
+1001782	Banco De Gaia	folk
+1001783	The Band	rock
+1001862	The Bangles	rock
+1001886	Buju Banton	hiphop
+1001925	Barenaked Ladies	rock
+1001990	Syd Barrett	rock
+1002045	Count Basie	jazz
+1002136	The Bats	rock
+1002156	Bauhaus	electronic
+1002183	The Beach Boys	pop
+1002202	Beastie Boys	rock
+1002210	Beat Happening	electronic
+1002217	The Beatles	pop
+1002243	The Beautiful South	folk
+1002256	Beck	rock
+1002258	Jeff Beck	rock
+1002280	The Bee Gees	pop
+1002289	Beenie Man	rock
+1002295	Camper Van Beethoven	classical
+1002320	Adrian Belew	electronic
+1002351	The Bellamy Brothers	rock
+1002355	Belle & Sebastian	pop
+1002365	Belly	blues
+1002389	Pat Benatar	rock
+1002404	Eric Benet	electronic
+1002425	Tony Bennett	rock
+1002432	Brendan Benson	rock
+1002434	George Benson	jazz
+1002476	Berlin	electronic
+1002511	Heidi Berry	country
+1002542	Better Than Ezra	electronic
+1002544	Bettie Serveert	folk
+1002573	Jello Biafra	electronic
+1002582	Bif Naked	punk
+1002588	Big Audio Dynamite	electronic
+1002597	Big Black	blues
+1002609	Big Country	country
+1002625	Big Head Todd & The Monsters	rock
+1002644	Big Sandy & His Fly-Rite Boys	country
+1002649	Big Star	rock
+1002684	Bikini Kill	punk
+1002686	Bile	punk
+1002716	Biohazard	metal
+1002732	The Birthday Party	pop
+1002738	Elvin Bishop	electronic
+1002766	Bjork	folk
+1002790	The Black Crowes	rock
+1002797	Black Flag	metal
+1002815	Black Sabbath	metal
+1002835	Clint Black	rock
+1002839	Frank Black	blues
+1002876	Blackstreet	rock
+1002911	Art Blakey	electronic
+1002922	"Bobby ""Blue"" Bland"	blues
+1002934	The Blasters	rock
+1002955	Blessid Union Of Souls	soul
+1002960	Mary J. Blige	pop
+1002961	Blind Faith	punk
+1002963	Blind Melon	electronic
+1002983	Rory Block	rock
+1002989	Blonde Redhead	pop
+1002990	Blondie	rock
+1003004	Blood, Sweat & Tears	punk
+1003007	Bloodhound Gang	rock
+1003061	The Blue Nile	blues
+1003063	Blue Oyster Cult	rock
+1003068	Blue Rodeo	blues
+1003099	The Blues Brothers	blues
+1003106	Blues Traveler	blues
+1003125	Blur	electronic
+1003158	The BoDeans	reggae
+1003187	Boiled In Lead	punk
+1003195	Marc Bolan	rock
+1003213	The Bolshoi	classical
+1003216	Michael Bolton	rock
+1003229	Bon Jovi	rock
+1003242	Bone Thugs-N-Harmony	hiphop
+1003262	Tracy Bonham	rock
+1003268	Simon Bonney	rock
+1003289	Book Of Love	soul
+1003291	Booker T.	hiphop
+1003325	Boredoms	electronic
+1003349	Boston	electronic
+1003367	Bottle Rockets	rock
+1003380	The Bouncing Souls	soul
+1003407	Bowery Electric	electronic
+1003408	David Bowie	rock
+1003423	Boy George	pop
+1003454	Boyz II Men	pop
+1003465	Brad	rock
+1003485	Billy Bragg	country
+1003508	The Brand New Heavies	rock
+1003522	Brandy	pop
+1003525	Laura Branigan	folk
+1003537	Bratmobile	punk
+1003550	Toni Braxton	r&b
+1003554	Bread	folk
+1003574	The Breeders	rock
+1003582	Maire Brennan	folk
+1003596	Brian Jonestown Massacre	rock
+1003603	Edie Brickell	jazz
+1003627	Sarah Brightman	pop
+1003688	Jonatha Brooke	country
+1003697	Brooks & Dunn	country
+1003704	Garth Brooks	country
+1003771	Bobby Brown	blues
+1003816	Norman Brown	blues
+1003846	Jackson Browne	rock
+1003860	Dave Brubeck	jazz
+1003902	BT	blues
+1003917	Buck-O-Nine	rock
+1003926	Jeff Buckley	rock
+1003956	Buffalo Springfield	rock
+1003957	Buffalo Tom	folk
+1003958	Grant Lee Buffalo	country
+1003960	Jimmy Buffett	rock
+1003966	The Buggles	rock
+1003972	Built To Spill	punk
+1003988	Bulletboys	rock
+1004042	Burning Spear	metal
+1004054	R.L. Burnside	rock
+1004070	Gary Burton	rock
+1004078	Bush	pop
+1004084	Kate Bush	pop
+1004095	Busta Rhymes	hiphop
+1004097	The Busters	punk
+1004121	Paul Butterfield	rock
+1004124	Butthole Surfers	punk
+1004132	Buzzcocks	rock
+1004157	Tracy Byrd	country
+1004158	The Byrds	rock
+1004159	David Byrne	rock
+1004218	Caedmon's Call	electronic
+1004247	Cake	pop
+1004254	Bobby Caldwell	country
+1004257	J.J. Cale	rock
+1004258	John Cale	rock
+1004262	Will Calhoun	country
+1004270	The Call	electronic
+1004295	Cameo	electronic
+1004305	Camouflage	electronic
+1004335	Tevin Campbell	electronic
+1004345	Can	electronic
+1004364	Candlebox	electronic
+1004378	Canned Heat	punk
+1004380	Cannibal Corpse	metal
+1004421	Captain Beefheart	rock
+1004445	Carcass	metal
+1004453	The Cardigans	rock
+1004459	Mariah Carey	pop
+1004468	George Carlin	folk
+1004469	Belinda Carlisle	pop
+1004485	Larry Carlton	rock
+1004515	Caroline's Spine	pop
+1004522	Mary Chapin Carpenter	folk
+1004524	The Carpenters	pop
+1004539	Paul Carrack	rock
+1004568	The Cars	rock
+1004586	Deana Carter	country
+1004623	Case	electronic
+1004624	Peter Case	rock
+1004631	Johnny Cash	country
+1004671	Cat Power	electronic
+1004689	Catherine	folk
+1004690	Catherine Wheel	electronic
+1004712	Nick Cave & The Bad Seeds	rock
+1004785	Peter Cetera	pop
+1004804	Chainsaw Kittens	punk
+1004850	Changing Faces	electronic
+1004866	Harry Chapin	country
+1004877	Steven Curtis Chapman	country
+1004878	Tracy Chapman	country
+1004892	The Charlatans UK	rock
+1004943	Chayanne	electronic
+1004947	Cheap Trick	rock
+1004954	Cheech & Chong	rock
+1004963	The Chemical Brothers	rock
+1004976	Cher	pop
+1004984	Cherry Poppin' Daddies	pop
+1004994	Kenny Chesney	country
+1004995	Mark Chesnutt	country
+1005016	Chic	pop
+1005017	Chicago	electronic
+1005036	The Chieftains	rock
+1005073	Alex Chilton	electronic
+1005154	Christian Death	metal
+1005205	Chumbawamba	rock
+1005209	The Church	soul
+1005238	Cinderella	pop
+1005252	Circle Jerks	punk
+1005269	Citizen King	rock
+1005288	Clannad	folk
+1005290	Eric Clapton	rock
+1005319	Terri Clark	country
+1005330	The Clarks	country
+1005331	The Clash	rock
+1005400	Jimmy Cliff	rock
+1005409	Patsy Cline	country
+1005410	George Clinton	country
+1005442	Coal Chamber	metal
+1005463	Cobra Verde	rock
+1005472	Tom Cochrane	rock
+1005473	Bruce Cockburn	rock
+1005474	Joe Cocker	rock
+1005481	Cocteau Twins	electronic
+1005491	Phil Cody	rock
+1005509	Leonard Cohen	rock
+1005513	Marc Cohn	electronic
+1005542	Holly Cole	country
+1005544	Lloyd Cole	jazz
+1005545	Nat King Cole	jazz
+1005546	Natalie Cole	pop
+1005547	Paula Cole	country
+1005580	Collective Soul	soul
+1005591	Albert Collins	rock
+1005595	Bootsy Collins	rock
+1005598	Edwyn Collins	electronic
+1005605	Phil Collins	rock
+1005618	Color Me Badd	punk
+1005637	John Coltrane	jazz
+1005640	Shawn Colvin	country
+1005655	The Commodores	rock
+1005660	Common Sense	folk
+1005690	Concrete Blonde	electronic
+1005725	The Connells	country
+1005792	Sam Cooke	soul
+1005807	Coolio	hiphop
+1005812	Alice Cooper	rock
+1005854	Chick Corea	jazz
+1005865	Cornershop	hiphop
+1005880	Corrosion Of Conformity	electronic
+1005881	The Corrs	folk
+1005909	Elvis Costello	rock
+1005914	Cotton Mather	country
+1005938	Counting Crows	rock
+1005979	Cowboy Junkies	country
+1005999	CPR	country
+1006005	Cracker	rock
+1006015	The Cramps	rock
+1006016	The Cranberries	rock
+1006020	Cranes	electronic
+1006028	Crass	punk
+1006046	Michael Crawford	electronic
+1006055	Robert Cray	electronic
+1006067	Cream	pop
+1006075	The Creatures	folk
+1006078	Creedence Clearwater Revival	rock
+1006084	Marshall Crenshaw	country
+1006130	Jim Croce	country
+1006144	Bing Crosby	pop
+1006149	Crosby, Stills & Nash	rock
+1006151	Christopher Cross	electronic
+1006175	Sheryl Crow	country
+1006179	Crowded House	punk
+1006206	Julee Cruise	jazz
+1006242	The Crystal Method	electronic
+1006288	The Cult	metal
+1006296	Culture Club	pop
+1006316	The Cure	rock
+1006332	Mark Curry	rock
+1006338	Catie Curtis	country
+1006343	Curve	electronic
+1006373	Cypress Hill	country
+1006389	D'Angelo	electronic
+1006390	Terence Trent D'Arby	rock
+1006442	Da Brat	electronic
+1006475	Daft Punk	electronic
+1006511	Dick Dale	country
+1006535	The Dambuilders	rock
+1006545	Damn Yankees	rock
+1006547	The Damned	punk
+1006561	Dance Hall Crashers	punk
+1006571	The Dandy Warhols	pop
+1006575	Danger Danger	punk
+1006587	Charlie Daniels Band	country
+1006599	Rick Danko	rock
+1006612	Danzig	rock
+1006625	Bobby Darin	country
+1006692	Kal David	electronic
+1006699	Dave Davies	rock
+1006748	Miles Davis	jazz
+1006760	Sammy Davis Jr.	jazz
+1006788	Ronnie Dawson	country
+1006799	Doris Day	pop
+1006812	DC Talk	electronic
+1006816	Chris De Burgh	rock
+1006831	De La Soul	soul
+1006852	The Dead Boys	rock
+1006854	Dead Can Dance	electronic
+1006860	The Dead Kennedys	rock
+1006865	Dead Or Alive	punk
+1006877	Deadeye Dick	folk
+1006884	Deadsy	electronic
+1006924	DeBarge	electronic
+1006953	Deee-Lite	electronic
+1006958	Deep Blue Something	blues
+1006959	Deep Forest	electronic
+1006961	Deep Purple	rock
+1006971	Def Leppard	rock
+1006978	Deftones	rock
+1007000	Del Amitri	classical
+1007009	Del The Funky Homosapien	hiphop
+1007023	Delerium	electronic
+1007059	Iris DeMent	electronic
+1007095	John Denver	rock
+1007098	Depeche Mode	electronic
+1007100	The Derailers	rock
+1007104	Derek & The Dominos	rock
+1007111	Rick Derringer	rock
+1007114	Des'ree	folk
+1007117	Descendents	folk
+1007168	Devo	electronic
+1007203	Diamond Rio	rock
+1007206	Neil Diamond	rock
+1007250	Die Krupps	punk
+1007275	Ani DiFranco	pop
+1007286	Digital Underground	electronic
+1007326	Dinosaur Jr.	rock
+1007329	Dio	metal
+1007331	Celine Dion	pop
+1007340	Dire Straits	rock
+1007374	Dishwalla	folk
+1007408	The Divine Comedy	electronic
+1007416	The Divinyls	rock
+1007420	Dixie Chicks	country
+1007429	Don Dixon	blues
+1007434	Willie Dixon	country
+1007439	DJ Cam	electronic
+1007441	DJ Dan	electronic
+1007449	DJ Krush	electronic
+1007518	Tha Dogg Pound	hiphop
+1007520	Nate Dogg	hiphop
+1007532	Dogstar	electronic
+1007538	Dokken	rock
+1007542	Thomas Dolby	electronic
+1007607	The Doobie Brothers	rock
+1007610	The Doors	rock
+1007626	Lee Dorsey	rock
+1007682	Down	electronic
+1007684	Down By Law	punk
+1007723	Dr. Dre	hiphop
+1007730	Dr. John	classical
+1007748	Nick Drake	hiphop
+1007753	Dramarama	electronic
+1007772	Dream Academy	electronic
+1007779	Dream Theater	rock
+1007817	Drivin' N' Cryin'	rock
+1007860	Dub Syndicate	electronic
+1007877	Les Dudek	folk
+1007939	Duran Duran	rock
+1007970	Dwarves	punk
+1007986	Bob Dylan	rock
+1008023	Eagles	rock
+1008037	Steve Earle	rock
+1008048	Earth, Wind & Fire	rock
+1008079	The Easybeats	rock
+1008099	Echo & The Bunnymen	rock
+1008109	Econoline Crush	electronic
+1008127	Linda Eder	folk
+1008139	Dave Edmunds	rock
+1008169	Eels	electronic
+1008199	Einsturzende Neubauten	folk
+1008202	Mark Eitzel	electronic
+1008257	Elastica	electronic
+1008279	Electric Light Orchestra	electronic
+1008283	Electric Skychurch	electronic
+1008289	Electronic	electronic
+1008301	Eleven	electronic
+1008330	Duke Ellington	jazz
+1008375	The Embarrassment	electronic
+1008384	Emerson, Lake & Palmer	rock
+1008388	EMF	electronic
+1008400	Rik Emmett	rock
+1008404	The Emotions	electronic
+1008405	Emperor	electronic
+1008412	En Vogue	pop
+1008444	English Beat	pop
+1008451	Bill Engvall	rock
+1008454	Enigma	electronic
+1008461	Brian Eno	electronic
+1008465	DJ Enrie	electronic
+1008485	Entombed	electronic
+1008492	Enya	electronic
+1008505	Erasure	electronic
+1008513	Eric B. & Rakim	hiphop
+1008543	The Escape Club	rock
+1008569	Esquivel	electronic
+1008581	Gloria Estefan	latin
+1008603	Melissa Etheridge	pop
+1008613	Eugenius	electronic
+1008624	Europe	electronic
+1008628	Eurythmics	electronic
+1008640	Faith Evans	pop
+1008656	Everclear	electronic
+1008659	Everlast	electronic
+1008666	Everything	electronic
+1008667	Everything But The Girl	punk
+1008702	The Exploited	electronic
+1008711	Extreme	metal
+1008745	Face To Face	folk
+1008758	Donald Fagen	rock
+1008761	John Fahey	rock
+1008762	Failure	electronic
+1008776	Faith No More	punk
+1008780	Marianne Faithfull	pop
+1008787	Falco	electronic
+1008792	Jason Falkner	rock
+1008793	The Fall	rock
+1008847	The Farm	country
+1008872	Fastbacks	punk
+1008873	Fastball	rock
+1008874	Faster Pussycat	punk
+1008877	Fat Joe	hiphop
+1008888	Fates Warning	electronic
+1008915	Fear	electronic
+1008916	Fear Factory	metal
+1008970	Steve Ferguson	rock
+1008997	Melissa Ferrick	pop
+1009001	Bryan Ferry	rock
+1009039	Fields Of The Nephilim	metal
+1009070	Fila Brazillia	latin
+1009073	Filter	electronic
+1009080	Fine Young Cannibals	punk
+1009112	Firehouse	rock
+1009139	Fishbone	rock
+1009158	Ella Fitzgerald	jazz
+1009167	Five For Fighting	punk
+1009168	Five Iron Frenzy	rock
+1009181	The Fixx	electronic
+1009184	Roberta Flack	pop
+1009190	The Flaming Lips	rock
+1009212	Bela Fleck	pop
+1009214	Fleetwood Mac	rock
+1009227	The Fleshtones	rock
+1009238	Flipp	electronic
+1009320	Dan Fogelberg	rock
+1009321	John Fogerty	rock
+1009323	Foghat	folk
+1009326	Ben Folds Five	rock
+1009333	The Folk Implosion	folk
+1009352	Foo Fighters	rock
+1009361	The For Carnation	classical
+1009367	Steve Forbert	rock
+1009397	Julia Fordham	electronic
+1009400	Foreigner	rock
+1009419	Robert Forster	folk
+1009453	Fountains Of Wayne	country
+1009473	The Four Tops	rock
+1009478	Fourplay	electronic
+1009496	Jeff Foxworthy	rock
+1009504	Foxy Brown	blues
+1009517	Peter Frampton	rock
+1009544	Frankie Goes To Hollywood	pop
+1009545	Aretha Franklin	soul
+1009549	Kirk Franklin	country
+1009555	Michael Franks	electronic
+1009585	Free	electronic
+1009631	Frente!	latin
+1009642	Glenn Frey	country
+1009692	Front 242	rock
+1009693	Front Line Assembly	punk
+1009711	Moxy Fruvous	electronic
+1009719	Fu Manchu	folk
+1009729	Fugazi	metal
+1009730	The Fugees	hiphop
+1009749	Lowell Fulson	electronic
+1009757	Fun Lovin' Criminals	punk
+1009768	Funkadelic	soul
+1009771	Funki Porcini	electronic
+1009808	Future Sound Of London	electronic
+1009831	G. Love & Special Sauce	rock
+1009850	Peter Gabriel	rock
+1009865	Jeffrey Gaines	electronic
+1009880	Galaxie 500	electronic
+1009940	Gang Of Four	rock
+1009954	Garbage	punk
+1009965	Jerry Garcia	rock
+1009975	Miranda Sex Garden	electronic
+1009989	Judy Garland	folk
+1010065	Marvin Gaye	soul
+1010086	J. Geils Band	rock
+1010093	Bob Geldof	rock
+1010103	Gene	electronic
+1010106	Gene Loves Jezebel	electronic
+1010122	Genesis	electronic
+1010167	Lisa Germano	pop
+1010174	Lisa Gerrard	pop
+1010191	Stan Getz	jazz
+1010203	Ghost Of An American Airman	hiphop
+1010209	Giant Sand	electronic
+1010212	Andy Gibb	pop
+1010234	Deborah Gibson	folk
+1010259	Gigolo Aunts	folk
+1010275	Johnny Gill	country
+1010276	Vince Gill	country
+1010279	Dizzy Gillespie	jazz
+1010296	David Gilmour	rock
+1010299	Gin Blossoms	pop
+1010309	Ginuwine	reggae
+1010317	Gipsy Kings	reggae
+1010327	Girls Against Boys	punk
+1010330	Girlschool	pop
+1010352	Glass Tiger	electronic
+1010399	The Go-Betweens	rock
+1010400	The Go-Go's	pop
+1010443	Louise Goffin	pop
+1010462	Golden Earring	pop
+1010469	Golden Smog	electronic
+1010474	Goldfinger	metal
+1010542	Goo Goo Dolls	rock
+1010553	Good Riddance	electronic
+1010604	Martin L. Gore	electronic
+1010646	The Gourds	folk
+1010647	Gov't Mule	country
+1010694	Grand Funk Railroad	rock
+1010700	Grandaddy	country
+1010710	Amy Grant	country
+1010722	The Grateful Dead	rock
+1010740	Gravity Kills	punk
+1010747	David Gray	electronic
+1010774	Great White	rock
+1010783	Boris Grebenshikov	electronic
+1010787	Green Day	rock
+1010797	Al Green	rock
+1010841	Lee Greenwood	country
+1010892	Patty Griffin	folk
+1010897	Nanci Griffith	country
+1011069	Guided By Voices	electronic
+1011104	Guns N' Roses	rock
+1011114	Gus Gus	country
+1011117	Guster	rock
+1011119	Arlo Guthrie	folk
+1011131	Guttermouth	folk
+1011136	Guy	electronic
+1011139	Buddy Guy	rock
+1011148	Gwar	metal
+1011169	H2O	electronic
+1011180	Steve Hackett	rock
+1011196	Sammy Hagar	rock
+1011200	Merle Haggard	country
+1011242	Hall & Oates	rock
+1011336	Herbie Hancock	jazz
+1011382	Happy Mondays	pop
+1011411	John Wesley Harding	country
+1011454	Ben Harper	rock
+1011486	Emmylou Harris	country
+1011512	George Harrison	rock
+1011528	Beth Hart	folk
+1011532	Corey Hart	rock
+1011545	Keef Hartley	country
+1011586	Juliana Hatfield Three	pop
+1011623	Sophie B. Hawkins	pop
+1011636	Bonnie Hayes	country
+1011644	Isaac Hayes	jazz
+1011710	Heart	soul
+1011724	Reverend Horton Heat	metal
+1011733	Heatmiser	metal
+1011734	Heatwave	punk
+1011740	Heavenly	electronic
+1011789	Helios Creed	rock
+1011790	Helium	electronic
+1011795	Richard Hell	rock
+1011806	Helloween	rock
+1011810	Helmet	metal
+1011846	Jimi Hendrix	rock
+1011848	Don Henley	rock
+1011860	Joe Henry	rock
+1011871	Hepcat	hiphop
+1011918	Kristin Hersh	electronic
+1011930	Jennifer Love Hewitt	pop
+1011949	John Hiatt	country
+1011983	The High Llamas	latin
+1012011	Dru Hill	rock
+1012012	Faith Hill	country
+1012040	Peter Himmelman	classical
+1012078	His Name Is Alive	electronic
+1012081	Robyn Hitchcock	electronic
+1012145	Hole	electronic
+1012152	Billie Holiday	jazz
+1012174	The Hollies	country
+1012265	The Hoodoo Gurus	folk
+1012271	John Lee Hooker	blues
+1012285	Hootie & The Blowfish	rock
+1012286	Hooverphonic	electronic
+1012297	Lightnin' Hopkins	rock
+1012354	Hot Water Music	rock
+1012376	House Of Pain	metal
+1012383	The Housemartins	rock
+1012392	Penelope Houston	pop
+1012395	Whitney Houston	pop
+1012396	Hovercraft	electronic
+1012401	Adina Howard	electronic
+1012418	Steve Howe	rock
+1012424	Howlin' Wolf	rock
+1012475	Hum	pop
+1012481	Human League	rock
+1012482	Human Mesh Dance	electronic
+1012499	The Humpers	rock
+1012543	Mississippi John Hurt	blues
+1012547	Lida Husik	folk
+1012549	Husker Du	folk
+1012590	Hypocrisy	electronic
+1012623	Ice Cube	hiphop
+1012625	Ice-T	electronic
+1012629	Iced Earth	electronic
+1012630	Icehouse	electronic
+1012638	Idaho	folk
+1012648	Billy Idol	rock
+1012651	Enrique Iglesias	latin
+1012717	Imperial Teen	pop
+1012723	The Impressions	electronic
+1012752	Incubus	metal
+1012764	Indigo Girls	pop
+1012779	Information Society	electronic
+1012786	James Ingram	country
+1012809	Insane Clown Posse	rock
+1012814	Inside Out	pop
+1012815	Insiders	electronic
+1012819	Inspiral Carpets	pop
+1012859	INXS	rock
+1012882	Iron Butterfly	rock
+1012884	Iron Maiden	metal
+1012903	Chris Isaak	rock
+1012920	The Isley Brothers	rock
+1012948	Ivy	electronic
+1012993	Jackopierce	electronic
+1012995	The Jackson 5	pop
+1012998	Alan Jackson	rock
+1013012	Janet Jackson	pop
+1013016	Joe Jackson	pop
+1013022	Luscious Jackson	pop
+1013025	Michael Jackson	pop
+1013049	Jackyl	electronic
+1013061	Jade	electronic
+1013070	Mick Jagger	rock
+1013091	The Jam	rock
+1013092	Jam Nation	rock
+1013104	James	electronic
+1013110	Bob James	rock
+1013111	Boney James	blues
+1013119	Etta James	soul
+1013133	Rick James	rock
+1013141	Jamiroquai	jazz
+1013151	Jane's Addiction	rock
+1013163	Japan	folk
+1013176	Al Jarreau	jazz
+1013181	Jars Of Clay	rock
+1013205	Jawbox	jazz
+1013206	Jawbreaker	metal
+1013213	Jay-Z	hiphop
+1013220	The Jayhawks	rock
+1013280	Jefferson Airplane	rock
+1013293	Jellyfish	electronic
+1013310	Waylon Jennings	country
+1013339	The Jesus & Mary Chain	rock
+1013342	Jesus Jones	rock
+1013343	The Jesus Lizard	rock
+1013350	Jethro Tull	rock
+1013352	Joan Jett	rock
+1013354	Jewel	electronic
+1013384	Jimmy Eat World	rock
+1013412	Jodeci	folk
+1013414	Joe	rock
+1013424	Billy Joel	rock
+1013438	Elton John	rock
+1013452	Johnny Hates Jazz	jazz
+1013492	Jack Johnson	rock
+1013525	Robert Johnson	blues
+1013542	Daniel Johnston	electronic
+1013543	Freedy Johnston	folk
+1013554	Jolene	jazz
+1013565	Jon B.	rock
+1013568	Jonathan Fire*Eater	rock
+1013581	Donell Jones	folk
+1013586	Etta Jones	soul
+1013589	George Jones	country
+1013596	Howard Jones	rock
+1013614	Marti Jones	country
+1013625	Quincy Jones	jazz
+1013631	Rickie Lee Jones	country
+1013638	Tom Jones	rock
+1013649	Janis Joplin	rock
+1013660	Montell Jordan	jazz
+1013689	Mindy Jostyn	electronic
+1013691	Journey	rock
+1013697	Joy Division	rock
+1013714	Grover Washington, Jr.	folk
+1013716	Harry Connick, Jr.	pop
+1013735	Judas Priest	metal
+1013736	Cledus T. Judd	folk
+1013738	The Judds	country
+1013743	The Judybats	punk
+1013766	June Of 44	electronic
+1013772	Junior M.A.F.I.A.	hiphop
+1013779	Junkyard	punk
+1013781	Juno Reactor	electronic
+1013786	Jurassic 5	electronic
+1013806	K's Choice	pop
+1013915	Kansas	rock
+1014009	Jorma Kaukonen	folk
+1014038	KC & The Sunshine Band	rock
+1014072	Robert Earl Keen	country
+1014091	Toby Keith	country
+1014120	R. Kelly	rock
+1014174	Keoki	electronic
+1014188	Sammy Kershaw	country
+1014218	Chaka Khan	jazz
+1014252	Kid Rock	rock
+1014256	Angelique Kidjo	pop
+1014264	Greg Kihn	rock
+1014303	Killing Joke	punk
+1014312	Lil' Kim	hiphop
+1014343	King Crimson	rock
+1014344	King Diamond	rock
+1014358	King Missile	rock
+1014372	King's X	rock
+1014374	B.B. King	blues
+1014381	Carole King	pop
+1014426	The Kinks	rock
+1014463	Kiss	rock
+1014480	Kix	electronic
+1014521	KMFDM	rock
+1014523	The Knack	rock
+1014525	Knapsack	punk
+1014547	Mark Knopfler	rock
+1014601	Komeda	folk
+1014619	Kool & The Gang	rock
+1014635	Korn	rock
+1014653	Leo Kottke	electronic
+1014674	Kraftwerk	metal
+1014678	Diana Krall	pop
+1014692	Alison Krauss	pop
+1014696	Lenny Kravitz	rock
+1014731	KRS-One	hiphop
+1014733	Kruder & Dorfmeister	metal
+1014753	Ed Kuepper	rock
+1014802	Kyuss	rock
+1014813	L.A. Guns	rock
+1014831	L7	rock
+1014855	La Ley	latin
+1014917	Patti LaBelle	soul
+1014953	Lagwagon	rock
+1014958	Laika	electronic
+1014963	Frankie Laine	jazz
+1014987	Lamb	rock
+1014995	Lambchop	electronic
+1015028	Ronnie Lane & Slim Chance	country
+1015033	Jonny Lang	rock
+1015034	K.d. Lang	electronic
+1015047	Daniel Lanois	electronic
+1015071	Patty Larkin	folk
+1015131	Latimore	folk
+1015161	Cyndi Lauper	pop
+1015202	Tracy Lawrence	country
+1015221	Lazy Cowgirls	country
+1015250	Denis Leary	electronic
+1015272	Led Zeppelin	metal
+1015282	Alvin Lee	country
+1015303	Peggy Lee	pop
+1015325	Leftfield	electronic
+1015350	Tom Lehrer	rock
+1015374	Lemonheads	rock
+1015385	John Lennon	rock
+1015386	Julian Lennon	rock
+1015387	Annie Lennox	pop
+1015424	Less Than Jake	blues
+1015430	Let's Go Bowling	rock
+1015439	Letters To Cleo	folk
+1015445	Level 42	electronic
+1015454	Gerald Levert	electronic
+1015468	Barrington Levy	electronic
+1015485	Donna Lewis	country
+1015493	Huey Lewis & The News	rock
+1015496	Jerry Lee Lewis	rock
+1015560	Lifehouse	rock
+1015572	Gordon Lightfoot	folk
+1015576	The Lightning Seeds	rock
+1015673	Lit	electronic
+1015689	Little Feat	pop
+1015706	Little River Band	rock
+1015713	Little Texas	country
+1015725	Live	rock
+1015735	Living Colour	rock
+1015750	LL Cool J	pop
+1015765	Local H	folk
+1015786	Chuck Loeb	rock
+1015787	Lisa Loeb	electronic
+1015805	Kenny Loggins	rock
+1015833	Suede [UK Rock]	rock
+1015834	London Symphony Orchestra	classical
+1015851	Lonestar	country
+1015875	Loop Guru	electronic
+1015910	Mary Lou Lord	blues
+1015911	Lords Of Acid	electronic
+1016051	Los Lobos	rock
+1016122	Los Straitjackets	rock
+1016181	The Loud Family	rock
+1016205	Love	folk
+1016208	Love & Rockets	rock
+1016228	Love Spirals Downwards	folk
+1016229	Love Spit Love	punk
+1016244	Patty Loveless	folk
+1016249	Loverboy	rock
+1016251	Lyle Lovett	country
+1016254	Low	electronic
+1016264	Nick Lowe	rock
+1016324	Lullaby For The Working Class	folk
+1016331	Luna	latin
+1016335	Lunachicks	pop
+1016358	Lush	electronic
+1016417	Shelby Lynne	country
+1016419	Lynyrd Skynyrd	country
+1016516	Shane MacGowan & The Popes	pop
+1016522	Machine Head	metal
+1016524	Machines Of Loving Grace	electronic
+1016574	The Mad Lads	rock
+1016580	Mad Season	punk
+1016584	Madball	electronic
+1016588	Madder Rose	metal
+1016599	Madness	electronic
+1016600	Madonna	pop
+1016642	Magnapop	pop
+1016644	The Magnetic Fields	electronic
+1016663	Taj Mahal	folk
+1016708	Makaveli	folk
+1016758	Yngwie Malmsteen	electronic
+1016776	The Mamas & The Papas	pop
+1016790	Man Or Astro-Man?	electronic
+1016793	Mana	folk
+1016844	Manic Street Preachers	rock
+1016852	Aimee Mann	pop
+1016861	Manfred Mann	classical
+1016878	Manowar	metal
+1016883	Charles Manson	rock
+1016885	Marilyn Manson	rock
+1016906	Phil Manzanera	rock
+1016950	Marcy Playground	pop
+1016989	Teena Marie	pop
+1016991	Marillion	rock
+1017017	Biz Markie	jazz
+1017031	Bob Marley	reggae
+1017036	Ziggy Marley	reggae
+1017060	Chris Mars	rock
+1017074	The Marshall Tucker Band	country
+1017075	Amanda Marshall	country
+1017093	Martika	electronic
+1017122	Ricky Martin	rock
+1017127	Steve Martin	rock
+1017157	Richard Marx	rock
+1017165	Mary's Danish	folk
+1017176	J. Mascis	electronic
+1017219	Massive Attack	metal
+1017228	Master P	electronic
+1017240	Matchbox Twenty	rock
+1017274	Dave Matthews Band	rock
+1017285	Cibo Matto	electronic
+1017306	Maxwell	electronic
+1017317	John Mayall	rock
+1017324	Curtis Mayfield	rock
+1017354	Mazzy Star	pop
+1017358	MC 5	hiphop
+1017377	Martina McBride	country
+1017383	Edwin McCain	country
+1017403	Paul McCartney	rock
+1017439	Neal McCoy	electronic
+1017456	Ian McCulloch	folk
+1017467	Michael McDermott	electronic
+1017474	Michael McDonald	electronic
+1017485	Reba McEntire	country
+1017511	Tim McGraw	country
+1017555	Brian McKnight	rock
+1017559	Sarah McLachlan	pop
+1017566	Pat McLaughlin	folk
+1017568	Don McLean	country
+1017572	Grant McLennan	country
+1017634	Wilson Meadows	country
+1017642	Meat Beat Manifesto	punk
+1017644	Meat Loaf	rock
+1017645	Meat Puppets	punk
+1017658	Medeski Martin & Wood	electronic
+1017685	Megadeth	metal
+1017696	The Mekons	electronic
+1017716	John Mellencamp	rock
+1017717	John Cougar Mellencamp	rock
+1017742	Melvins	rock
+1017764	Men At Work	hiphop
+1017769	Men Without Hats	folk
+1017810	Mephiskapheles	electronic
+1017819	Natalie Merchant	pop
+1017823	Mercury Rev	rock
+1017825	Freddie Mercury	rock
+1017829	Mercyful Fate	electronic
+1017855	Meshuggah	electronic
+1017864	Jo Dee Messina	pop
+1017870	Metal Church	rock
+1017874	Metallica	metal
+1017880	Pat Metheny	jazz
+1017881	Method Man	electronic
+1017927	George Michael	pop
+1017959	Bette Midler	pop
+1017961	Midnight Oil	electronic
+1017978	The Mighty Lemon Drops	pop
+1017979	The Mighty Mighty Bosstones	rock
+1017989	Luis Miguel	latin
+1017997	Mike & The Mechanics	rock
+1018039	Millencolin	latin
+1018057	Glenn Miller	rock
+1018070	Rhett Miller	country
+1018074	Roger Miller	rock
+1018076	Steve Miller Band	rock
+1018124	Charles Mingus	jazz
+1018130	Ministry	electronic
+1018138	Kylie Minogue	pop
+1018139	Minor Threat	punk
+1018143	Mint Condition	electronic
+1018151	The Minutemen	rock
+1018178	The Misfits	rock
+1018190	Missing Persons	electronic
+1018192	Mission Of Burma	folk
+1018224	Joni Mitchell	rock
+1018249	Mobb Deep	rock
+1018252	Moby	metal
+1018262	Modern English	pop
+1018269	Modest Mouse	electronic
+1018272	Moe	rock
+1018280	The Moffatts	country
+1018299	Mojave 3	electronic
+1018307	The Moles	rock
+1018317	Molly Hatchet	country
+1018319	Moloko	folk
+1018342	Eddie Money	rock
+1018344	Monica	pop
+1018349	Thelonious Monk	jazz
+1018350	The Monkees	rock
+1018377	Monster Magnet	metal
+1018417	John Michael Montgomery	rock
+1018425	Wes Montgomery	country
+1018435	Montrose	folk
+1018437	Monty Python's Flying Circus	rock
+1018442	The Moody Blues	rock
+1018467	Moonspell	electronic
+1018486	Gary Moore	rock
+1018520	Vinnie Moore	rock
+1018537	Morbid Angel	metal
+1018539	Morcheeba	folk
+1018587	Alanis Morissette	pop
+1018599	Morphine	electronic
+1018619	Mark Morrison	rock
+1018620	Van Morrison	rock
+1018623	Morrissey	rock
+1018686	Motley Crue	metal
+1018691	Motorhead	rock
+1018695	Mott The Hoople	rock
+1018699	Bob Mould	rock
+1018705	Mountain	folk
+1018712	Mouse On Mars	pop
+1018736	Alison Moyet	folk
+1018742	Mr. Big	rock
+1018743	Mr. Bungle	rock
+1018759	Mr. Mister	folk
+1018770	The Mr. T Experience	hiphop
+1018795	Mud	folk
+1018798	Mudhoney	electronic
+1018803	The Muffs	rock
+1018861	Eddie Murphy	rock
+1018869	Peter Murphy	rock
+1018916	Mustard Plug	electronic
+1018937	MxPx	electronic
+1018938	My Bloody Valentine	rock
+1018943	My Dying Bride	folk
+1018947	My Life With The Thrill Kill Kult	metal
+1018962	Alannah Myles	electronic
+1018980	Mystikal	electronic
+1018995	N.W.A.	hiphop
+1019009	Nada Surf	punk
+1019038	Naked Eyes	electronic
+1019053	Napalm Death	metal
+1019067	Nas	hiphop
+1019071	Graham Nash	country
+1019115	Native Flute Ensemble	folk
+1019134	Naughty By Nature	punk
+1019153	Nazareth	folk
+1019157	Meshell Ndegeocello	electronic
+1019178	The Nectarine No. 9	pop
+1019180	Ned's Atomic Dustbin	electronic
+1019200	Vince Neil	rock
+1019218	Rick Nelson	rock
+1019226	Willie Nelson	country
+1019232	Nena	pop
+1019241	Nerf Herder	folk
+1019260	Neurosis	electronic
+1019263	Neutral Milk Hotel	pop
+1019270	Nevermore	metal
+1019272	Neville Brothers	rock
+1019288	New Bomb Turks	electronic
+1019303	New Edition	pop
+1019305	New Fast Automatic Daffodils	electronic
+1019318	New Kids On The Block	pop
+1019331	New Order	rock
+1019369	New York Dolls	pop
+1019402	Randy Newman	country
+1019407	Newsboys	rock
+1019417	Olivia Newton-John	pop
+1019456	Stevie Nicks	rock
+1019457	Nico	electronic
+1019474	Night Ranger	rock
+1019490	Nightmares On Wax	electronic
+1019512	Nine Inch Nails	rock
+1019522	Nirvana	rock
+1019532	Nitty Gritty Dirt Band	rock
+1019542	The Nixons	electronic
+1019547	No Doubt	rock
+1019560	No Use For A Name	electronic
+1019576	NoFx	electronic
+1019615	Stina Nordenstam	classical
+1019620	Mecca Normal	pop
+1019656	Nothingface	electronic
+1019658	The Notorious B.I.G.	hiphop
+1019663	Heather Nova	country
+1019665	The Novas	folk
+1019690	Ted Nugent	rock
+1019697	Gary Numan	rock
+1019753	Sinead O'Connor	pop
+1019769	The O'Jays	jazz
+1019775	Alexander O'Neal	electronic
+1019802	Oasis	rock
+1019830	The Ocean Blue	blues
+1019845	The Odds	electronic
+1019857	The Offspring	punk
+1019875	Oingo Boingo	rock
+1019889	Ol' Dirty Bastard	hiphop
+1019894	Old 97's	rock
+1019903	Mike Oldfield	rock
+1019925	The Olivia Tremor Control	electronic
+1019995	Yoko Ono	folk
+1020011	Operation Ivy	electronic
+1020033	Roy Orbison	rock
+1020035	William Orbit	electronic
+1020036	Orbital	electronic
+1020051	Orchestral Manoeuvres In The Dark	electronic
+1020115	Original Cast Recording	latin
+1020250	Beth Orton	country
+1020265	Joan Osborne	folk
+1020268	Ozzy Osbourne	rock
+1020313	Our Lady Peace	folk
+1020323	The Outfield	punk
+1020326	Outkast	hiphop
+1020344	Overkill	electronic
+1020357	Sandy Owen	country
+1020395	P.M. Dawn	pop
+1020464	Palace Music	classical
+1020471	Pale Saints	punk
+1020487	Robert Palmer	electronic
+1020524	Pantera	rock
+1020546	Papas Fritas	latin
+1020560	Paradise Lost	rock
+1020601	Charlie Parker	jazz
+1020605	Graham Parker	rock
+1020629	Parliament	punk
+1020640	The Alan Parsons Project	rock
+1020643	Gram Parsons	rock
+1020650	Dolly Parton	country
+1020680	The Pastels	pop
+1020728	Paul Kelly	rock
+1020739	Laura Pausini	folk
+1020742	Pavement	punk
+1020778	Pearl Jam	rock
+1020829	Teddy Pendergrass	country
+1020844	Pennywise	punk
+1020867	Pere Ubu	folk
+1020923	"Lee ""Scratch"" Perry"	electronic
+1020926	Steve Perry	rock
+1020940	Pet Shop Boys	rock
+1020949	Peter, Paul & Mary	rock
+1020972	Petra	electronic
+1020983	Tom Petty	rock
+1020993	Liz Phair	rock
+1021005	The Pharcyde	rock
+1021054	Phish	rock
+1021064	Edith Piaf	pop
+1021106	Pig	punk
+1021109	Pigface	punk
+1021139	Pinhead Gunpowder	punk
+1021142	Pink Floyd	rock
+1021186	The Pixies	rock
+1021190	Pizzicato Five	electronic
+1021192	PJ Harvey	jazz
+1021194	Placebo	pop
+1021206	Robert Plant	rock
+1021213	Plastikman	electronic
+1021263	Poco	pop
+1021265	Poe	folk
+1021274	The Pogues	rock
+1021276	Poi Dog Pondering	folk
+1021281	Point Of Grace	electronic
+1021286	Poison	punk
+1021300	The Police	rock
+1021314	Polvo	folk
+1021357	Iggy Pop	pop
+1021377	Porcupine Tree	punk
+1021382	Porno For Pyros	punk
+1021402	Portishead	rock
+1021411	The Posies	rock
+1021458	The Power Station	punk
+1021466	Powerman 5000	electronic
+1021515	Elvis Presley	rock
+1021527	The Pretenders	rock
+1021534	The Pretty Things	pop
+1021556	Charley Pride	country
+1021566	Primal Scream	punk
+1021578	Primus	rock
+1021580	Prince	pop
+1021597	John Prine	country
+1021617	The Proclaimers	rock
+1021618	Procol Harum	rock
+1021623	The Prodigy	electronic
+1021645	Prolapse	electronic
+1021647	The Promise Ring	electronic
+1021649	Prong	punk
+1021676	Richard Pryor	rock
+1021689	Psychic TV	electronic
+1021703	Psykosonik	electronic
+1021707	Public Enemy	punk
+1021708	Public Image Ltd.	electronic
+1021718	Tito Puente	latin
+1021734	Pulp	punk
+1021810	Quasi	folk
+1021812	Suzi Quatro	classical
+1021815	Queen	rock
+1021824	Queensryche	folk
+1021826	The Queers	punk
+1021837	Quicksilver Messenger Service	rock
+1021840	Quiet Riot	punk
+1021869	R.E.M.	rock
+1021885	Rachel's	folk
+1021892	Radar Bros.	rock
+1021912	Radiohead	rock
+1021924	Gerry Rafferty	rock
+1021928	Rage Against The Machine	rock
+1021948	Rainbow	electronic
+1021958	Bonnie Raitt	rock
+1021992	The Ramones	rock
+1022010	Rancid	rock
+1022085	The Raspberries	rock
+1022086	Rasputina	folk
+1022096	Ratt	metal
+1022161	Chris Rea	country
+1022226	Red Hot Chili Peppers	rock
+1022230	Red House Painters	punk
+1022249	Leon Redbone	blues
+1022257	Otis Redding	blues
+1022262	Redman	rock
+1022288	Lou Reed	rock
+1022297	Reel Big Fish	rock
+1022316	Refused	electronic
+1022359	The Rembrandts	rock
+1022365	Remy Zero	electronic
+1022382	The Rentals	pop
+1022385	REO Speedwagon	rock
+1022389	The Replacements	rock
+1022428	Revolting Cocks	punk
+1022465	The Rezillos	folk
+1022513	Charlie Rich	rock
+1022538	Lionel Richie	rock
+1022543	Jonathan Richman	electronic
+1022560	Ride	rock
+1022566	Stan Ridgway	country
+1022601	LeAnn Rimes	country
+1022707	Marty Robbins	rock
+1022740	Robbie Robertson	rock
+1022778	Smokey Robinson	country
+1022808	Chris Rock	rock
+1022809	Pete Rock & C.L. Smooth	rock
+1022814	Rocket From The Crypt	rock
+1022878	Roger	rock
+1022890	Kenny Rogers	country
+1022924	Rollerskate Skinny	punk
+1022925	The Rolling Stones	rock
+1022929	Henry Rollins	rock
+1022942	The Romantics	classical
+1022971	Linda Ronstadt	rock
+1022980	The Roots	folk
+1023006	Rose Royce	pop
+1023041	Diana Ross	pop
+1023065	David Lee Roth	rock
+1023079	Rotting Christ	metal
+1023106	Roxette	rock
+1023111	Roxy Music	rock
+1023119	Royal Crown Revue	rock
+1023164	Paulina Rubio	pop
+1023194	Rufus	r&b
+1023228	The Runaways	rock
+1023229	Todd Rundgren	rock
+1023236	RuPaul	pop
+1023239	Rush	rock
+1023244	Otis Rush	rock
+1023261	Leon Russell	electronic
+1023274	Rusted Root	rock
+1023278	Ruth Ruth	folk
+1023304	RZA	electronic
+1023356	Sade	electronic
+1023376	Saigon Kick	electronic
+1023383	Saint Etienne	folk
+1023391	Ryuichi Sakamoto	classical
+1023427	Salt-N-Pepa	pop
+1023445	Samael	electronic
+1023449	Samiam	folk
+1023454	Joe Sample	electronic
+1023456	The Samples	electronic
+1023479	David Sanborn	electronic
+1023509	Adam Sandler	electronic
+1023542	Santana	latin
+1023544	Carlos Santana	rock
+1023566	Alejandro Sanz	folk
+1023614	Joe Satriani	rock
+1023631	Savage Garden	punk
+1023637	Savatage	folk
+1023643	Savoy Brown	blues
+1023665	Boz Scaggs	rock
+1023677	Scarface	punk
+1023706	Peter Schilling	classical
+1023739	School Of Fish	folk
+1023790	Scorpions	rock
+1023814	Marilyn Scott	country
+1023848	Screaming Trees	punk
+1023851	Screeching Weasel	punk
+1023867	The Sea & Cake	pop
+1023876	Seal	electronic
+1023878	Seals & Crofts	rock
+1023882	Seam	electronic
+1023904	Sebadoh	folk
+1023918	Secret Garden	electronic
+1023954	Bob Seger	rock
+1023965	Selena	pop
+1023966	Self	electronic
+1023978	Semisonic	electronic
+1024006	Sepultura	metal
+1024030	Brian Setzer	rock
+1024038	Seven Mary Three	rock
+1024052	The Sex Pistols	rock
+1024057	Ron Sexsmith	rock
+1024095	DJ Shadow	electronic
+1024111	Shaggy	rock
+1024117	Shai	folk
+1024130	Shakira	latin
+1024235	Jules Shear	jazz
+1024246	Duncan Sheik	electronic
+1024252	Shellac	electronic
+1024269	Vonda Shepard	country
+1024272	Kenny Wayne Shepherd	country
+1024346	Shonen Knife	metal
+1024379	Shriekback	electronic
+1024389	Shudder To Think	electronic
+1024407	Jane Siberry	folk
+1024414	Sick Of It All	punk
+1024467	Silk	electronic
+1024478	The Silos	electronic
+1024491	Silver Jews	folk
+1024496	Silverchair	electronic
+1024523	Simon & Garfunkel	rock
+1024526	Carly Simon	pop
+1024533	Paul Simon	rock
+1024538	Nina Simone	pop
+1024544	Simple Minds	rock
+1024549	Simply Red	rock
+1024565	Frank Sinatra	pop
+1024602	Siouxsie & The Banshees	rock
+1024604	Sir Douglas Quintet	classical
+1024618	Sister Hazel	soul
+1024619	Sister Machine Gun	metal
+1024624	Sister Sledge	rock
+1024629	Sisters Of Mercy	soul
+1024635	Six Feet Under	rock
+1024639	Sixpence None The Richer	rock
+1024652	Skankin' Pickle	punk
+1024656	Skatalites	electronic
+1024670	Skid Row	punk
+1024680	Skinny Puppy	punk
+1024703	Skunk Anansie	punk
+1024710	Sky Cries Mary	folk
+1024734	Slant 6	electronic
+1024741	Slash's Snakepit	metal
+1024746	Slaughter	metal
+1024759	Slayer	metal
+1024760	Sleater-Kinney	rock
+1024779	Slick Rick	rock
+1024795	Slint	metal
+1024799	Sloan	country
+1024810	Slowdive	electronic
+1024819	Sly & Robbie	rock
+1024820	Sly & The Family Stone	rock
+1024844	Smashing Pumpkins	rock
+1024846	The Smears	punk
+1024882	Elliott Smith	electronic
+1024922	Michael W. Smith	electronic
+1024950	The Smithereens	punk
+1024951	The Smiths	rock
+1024954	Smog	electronic
+1024961	Smoking Popes	pop
+1024988	Snapcase	electronic
+1024992	Sneaker Pimps	punk
+1024998	Todd Snider	rock
+1025005	Snoop Dogg	hiphop
+1025025	Jill Sobule	folk
+1025027	Social Distortion	punk
+1025038	The Soft Boys	rock
+1025039	Soft Cell	electronic
+1025040	Soft Machine	electronic
+1025095	Sometime Sweet Susan	pop
+1025104	Son Volt	rock
+1025115	Sonic Youth	electronic
+1025167	Soul Asylum	soul
+1025173	Soul Coughing	soul
+1025213	Soundgarden	rock
+1025240	Southern Culture On The Skids	folk
+1025263	Space	electronic
+1025268	Spacehog	electronic
+1025269	Spacemen 3	electronic
+1025280	Spandau Ballet	classical
+1025294	Sparklehorse	rock
+1025298	Sparks	electronic
+1025331	The Specials	rock
+1025365	Jon Spencer Blues Explosion	blues
+1025382	Spice Girls	pop
+1025396	Spin Doctors	electronic
+1025398	The Spinanes	folk
+1025401	The Spinners	rock
+1025408	Spirit	electronic
+1025437	Splendora	folk
+1025438	Split Enz	electronic
+1025443	Sponge	pop
+1025449	Spooky Tooth	folk
+1025450	Spoon	pop
+1025475	Rick Springfield	rock
+1025477	Bruce Springsteen	rock
+1025484	Sprung Monkey	electronic
+1025489	Spyro Gyra	electronic
+1025497	Squeeze	electronic
+1025499	Billy Squier	rock
+1025501	Squirrel Nut Zippers	folk
+1025522	Stabbing Westward	metal
+1025611	Starlings	rock
+1025623	Ringo Starr	rock
+1025628	Starship	electronic
+1025668	Steel Pulse	rock
+1025681	Steely Dan	rock
+1025713	Steppenwolf	rock
+1025718	Stereo MC's	hiphop
+1025719	Stereolab	electronic
+1025735	Cat Stevens	rock
+1025776	Rod Stewart	rock
+1025787	Stiff Little Fingers	punk
+1025801	Sting	rock
+1025830	The Stone Roses	rock
+1025831	Stone Temple Pilots	rock
+1025892	George Strait	country
+1025924	The Stray Cats	punk
+1025939	Barbra Streisand	pop
+1025972	Strung Out	electronic
+1025977	Stryper	metal
+1026007	Styx	electronic
+1026011	The Subdudes	punk
+1026012	Subhumans	punk
+1026015	Sublime	rock
+1026039	Sugar	pop
+1026044	Sugar Ray	rock
+1026049	The Sugarcubes	electronic
+1026060	Suicidal Tendencies	metal
+1026063	The Suicide Machines	metal
+1026083	Donna Summer	pop
+1026109	The Sundays	folk
+1026122	Sunny Day Real Estate	pop
+1026143	Super Deluxe	electronic
+1026145	Super Furry Animals	punk
+1026166	Superchunk	rock
+1026169	Superdrag	metal
+1026172	Supergrass	electronic
+1026182	Supersuckers	punk
+1026184	Supertramp	rock
+1026194	Al B. Sure!	r&b
+1026209	Survivor	electronic
+1026251	Swans	folk
+1026260	Keith Sweat	country
+1026268	Sweet	pop
+1026288	Matthew Sweet	electronic
+1026347	David Sylvian	electronic
+1026414	Tad	folk
+1026455	Talk Talk	hiphop
+1026457	Talking Heads	rock
+1026459	Tall Dwarfs	rock
+1026478	Tamia	electronic
+1026490	Tangerine Dream	pop
+1026500	Olga Tanon	folk
+1026557	Tavares	latin
+1026566	Ben Taylor	rock
+1026581	James Taylor	country
+1026612	The Tea Party	folk
+1026620	Tears For Fears	rock
+1026648	Teenage Fanclub	pop
+1026670	Television	pop
+1026671	Television Personalities	pop
+1026684	Temple Of The Dog	metal
+1026690	The Temptations	pop
+1026693	Ten Foot Pole	metal
+1026704	Ten Years After	electronic
+1026707	Danny Tenaglia	rock
+1026762	John Tesh	rock
+1026764	Tesla	electronic
+1026767	Testament	folk
+1026777	Texas	country
+1026782	The Texas Tornados	rock
+1026798	Thalia	electronic
+1026803	That Petrol Emotion	pop
+1026806	The The	electronic
+1026819	The Orb	electronic
+1026841	Them	electronic
+1026856	They Might Be Giants	rock
+1026872	Thin Lizzy	rock
+1026880	Third Day	rock
+1026882	Third Eye Blind	rock
+1026899	This Mortal Coil	metal
+1026945	The Thompson Twins	rock
+1026970	Richard Thompson	rock
+1027009	Three 6 Mafia	rock
+1027015	Three Dog Night	rock
+1027046	Throwing Muses	electronic
+1027060	Johnny Thunders	rock
+1027072	Tiamat	folk
+1027086	Tiffany	pop
+1027090	Tiger Trap	rock
+1027094	Tanita Tikaram	folk
+1027109	Timbuk 3	folk
+1027111	The Time	electronic
+1027132	Tin Machine	electronic
+1027137	Tindersticks	electronic
+1027152	Aaron Tippin	rock
+1027164	Titiyo	folk
+1027171	TLC	pop
+1027178	Toad The Wet Sprocket	rock
+1027179	Toadies	folk
+1027181	The Toasters	punk
+1027219	Tom Tom Club	rock
+1027239	Tones On Tail	rock
+1027241	Tonic	electronic
+1027250	Tony Toni Tone	jazz
+1027263	Tool	metal
+1027318	Tortoise	electronic
+1027320	Peter Tosh	rock
+1027333	Toto	rock
+1027350	Tower Of Power	metal
+1027361	Pete Townshend	rock
+1027381	Traffic	electronic
+1027385	The Tragically Hip	rock
+1027386	Train	rock
+1027397	Trans Am	electronic
+1027430	Traveling Wilburys	rock
+1027432	Pat Travers	folk
+1027435	Randy Travis	country
+1027496	Tricky	electronic
+1027520	Trio	rock
+1027547	Tripping Daisy	electronic
+1027553	Travis Tritt	country
+1027554	Triumph	electronic
+1027563	Troop	rock
+1027590	Robin Trower	rock
+1027598	True Believers	folk
+1027620	Jennifer Trynin	pop
+1027626	T.S.O.L	electronic
+1027636	The Tubes	rock
+1027696	Tina Turner	classical
+1027708	Tuscadero	classical
+1027718	Shania Twain	country
+1027731	Dwight Twilley	country
+1027741	Twista	hiphop
+1027743	Twisted Sister	metal
+1027746	Conway Twitty	country
+1027766	Bonnie Tyler	country
+1027772	Type O Negative	punk
+1027798	U2	rock
+1027800	UB40	electronic
+1027806	UFO	electronic
+1027812	Ugly Kid Joe	punk
+1027843	Ultramarine	electronic
+1027847	Ultravox	rock
+1027861	Uncle Tupelo	blues
+1027881	The Undertones	rock
+1027883	Underworld	electronic
+1027929	Unrest	punk
+1027931	Unsane	electronic
+1027938	Unwritten Law	electronic
+1027967	Midge Ure	pop
+1027969	Urge Overkill	metal
+1027971	Uriah Heep	rock
+1027978	Usher	rock
+1028015	Steve Vai	rock
+1028056	Vallejo	latin
+1028073	Van Halen	rock
+1028096	The Vandals	punk
+1028100	Luther Vandross	soul
+1028103	Vangelis	electronic
+1028106	Vanilla Ice	pop
+1028112	The Vapors	electronic
+1028140	The Vaselines	electronic
+1028152	Sarah Vaughan	country
+1028153	Stevie Ray Vaughan	rock
+1028154	Ben Vaughn	rock
+1028174	Suzanne Vega	pop
+1028184	Jaci Velasquez	latin
+1028195	Velocity Girl	pop
+1028199	Velvet	electronic
+1028202	Velvet Crush	rock
+1028205	The Velvet Underground	rock
+1028251	Vertical Horizon	electronic
+1028253	Veruca Salt	rock
+1028255	The Verve	rock
+1028319	Village People	folk
+1028358	The Violent Femmes	rock
+1028435	Voivod	electronic
+1028459	Voodoo Glow Skulls	electronic
+1028485	W.A.S.P.	electronic
+1028514	Loudon Wainwright III	rock
+1028521	Tom Waits	rock
+1028531	Rick Wakeman	rock
+1028555	Clay Walker	country
+1028559	Jerry Jeff Walker	country
+1028603	The Wallflowers	rock
+1028612	Joe Walsh	rock
+1028635	Wang Chung	folk
+1028639	War	metal
+1028678	Warrant	electronic
+1028679	Warren G	rock
+1028695	Was (Not Was)	electronic
+1028732	The Waterboys	rock
+1028744	Kim Waters	country
+1028746	Muddy Waters	blues
+1028748	Roger Waters	rock
+1028783	Ben Watt	electronic
+1028795	Wax	electronic
+1028841	The Wedding Present	pop
+1028850	Ween	electronic
+1028852	Weezer	rock
+1028875	Gillian Welch	folk
+1028888	Paul Weller	rock
+1028942	Paul Westerberg	rock
+1028955	Westside Connection	rock
+1028961	Whale	electronic
+1028964	Wham!	pop
+1028998	Whiskeytown	country
+1029013	White Lion	rock
+1029017	White Town	pop
+1029019	White Zombie	rock
+1029023	Barry White	rock
+1029025	Bryan White	country
+1029042	Karyn White	country
+1029058	Whitecross	country
+1029068	Whitesnake	rock
+1029091	The Who	rock
+1029107	Widespread Panic	rock
+1029127	Wilco	rock
+1029128	David Wilcox	electronic
+1029216	Dar Williams	folk
+1029219	Deniece Williams	folk
+1029227	Hank Williams	country
+1029239	Hank Williams, Jr.	country
+1029248	Lucinda Williams	country
+1029275	Vanessa Williams	pop
+1029278	Victoria Williams	pop
+1029305	Kelly Willis	rock
+1029314	Mark Wills	country
+1029319	Wilson Phillips	country
+1029323	Brian Wilson	rock
+1029369	CeCe Winans	country
+1029394	Winger	rock
+1029411	Johnny Winter	country
+1029420	Steve Winwood	rock
+1029424	Wire	electronic
+1029443	Bill Withers	country
+1029458	Peter Wolf	rock
+1029467	The Wolfgang Press	classical
+1029483	Lee Ann Womack	country
+1029489	Stevie Wonder	rock
+1029562	World Party	pop
+1029592	Chely Wright	electronic
+1029599	Gary Wright	electronic
+1029612	Wu-Tang Clan	hiphop
+1029618	Robert Wyatt	electronic
+1029624	Bill Wyman	country
+1029630	Wynonna Judd	country
+1029632	X	electronic
+1029668	Xscape	electronic
+1029669	XTC	electronic
+1029675	Xzibit	electronic
+1029711	Weird Al Yankovic	pop
+1029713	Yanni	rock
+1029719	The Yardbirds	rock
+1029728	Yaz	electronic
+1029737	Trisha Yearwood	country
+1029742	Yello	electronic
+1029753	Yes	electronic
+1029761	Yo La Tengo	rock
+1029764	Dwight Yoakam	country
+1029786	You Am I	pop
+1029822	Jesse Colin Young	country
+1029833	Neil Young	rock
+1029834	Paul Young	rock
+1029901	Townes Van Zandt	rock
+1029908	Zapp & Roger	rock
+1029910	Frank Zappa	rock
+1029923	Tom Ze	rock
+1029929	Zeke	electronic
+1029931	Martin Zellar	electronic
+1029955	Warren Zevon	rock
+1030037	ZZ Top	rock
+1030047	The Animals	rock
+1030059	Chuck Berry	rock
+1030126	The Crystals	rock
+1030141	Dion	electronic
+1030145	Fats Domino	jazz
+1030151	The Drifters	rock
+1030167	The Everly Brothers	rock
+1030217	Buddy Holly	rock
+1030233	The Kingsmen	rock
+1030239	The Leaves	folk
+1030247	Little Richard	rock
+1030251	The Lovin' Spoonful	rock
+1030311	The Righteous Brothers	rock
+1030320	The Ronettes	rock
+1030338	The Shangri-Las	rock
+1030339	Del Shannon	electronic
+1030366	Dusty Springfield	rock
+1030372	The Swinging Blue Jeans	blues
+1030374	13th Floor Elevators	electronic
+1030379	The Trashmen	punk
+1030385	The Turtles	rock
+1030389	Vanilla Fudge	pop
+1030410	The Zombies	rock
+1030562	Generations Combo	pop
+1030656	Looking Glass	electronic
+1030666	Blink 182	electronic
+1030683	K-Ci & JoJo	hiphop
+1030691	P. Diddy	hiphop
+1030710	98 Degrees	electronic
+1030713	Adam Ant	rock
+1030716	Alana Davis	electronic
+1030721	Aqua	electronic
+1030727	Atari Teenage Riot	rock
+1030735	Bis	folk
+1030756	Christopher Lawrence	electronic
+1030760	Creed	rock
+1030774	Dimitri From Paris	electronic
+1030790	Fluid Ounces	electronic
+1030803	God's Property	metal
+1030811	Jack Off Jill	punk
+1030847	Lila McCann	pop
+1030871	Meredith Brooks	country
+1030879	Missy Elliott	pop
+1030880	Mogwai	folk
+1030893	Olive	electronic
+1030931	Save Ferris	folk
+1030933	Sevendust	electronic
+1030937	Smash Mouth	rock
+1030962	The Orange Peels	pop
+1030984	U.S. Bombs	electronic
+1030992	Wyclef Jean	jazz
+1031012	Chantal Kreviazuk	classical
+1031013	Common	pop
+1031018	Days Of The New	pop
+1031021	DJ Dara	electronic
+1031044	Jagged Edge	rock
+1031061	Kara's Flowers	pop
+1031091	Switchfoot	rock
+1031144	Dubstar	electronic
+1031234	Subcircus	punk
+1031240	Tanya Donelly	folk
+1031246	Sash!	electronic
+1031268	The Supertones	rock
+1031295	DJ Micro	electronic
+1031304	Plumb	pop
+1031325	12 Rods	metal
+1031338	Calexico	latin
+1031343	Big Wreck	rock
+1031345	Billie Myers	jazz
+1031346	Creeper Lagoon	punk
+1031357	Dream City Film Club	electronic
+1031364	Cirrus	electronic
+1031368	Fatboy Slim	hiphop
+1031384	Hurricane #1	metal
+1031440	Pat DiNizio	electronic
+1031469	Snot	electronic
+1031494	Stereophonics	electronic
+1031503	Timbaland & Magoo	hiphop
+1031507	Travis	country
+1031518	The Pistoleros	punk
+1031519	The X-ecutioners	electronic
+1031520	Thievery Corporation	hiphop
+1031562	B.G.	r&b
+1031573	Cold	electronic
+1031577	Buena Vista Social Club	pop
+1031595	The Delgados	rock
+1031646	In Flames	metal
+1031671	Jude	electronic
+1031684	Ken Stringfellow	folk
+1031703	LSG	electronic
+1031757	Optiganally Yours	electronic
+1031779	Pulley	punk
+1031793	Roni Size	electronic
+1031853	The Pietasters	classical
+1031856	The Saw Doctors	punk
+1031861	Takako Minekawa	folk
+1031904	Andrea Bocelli	classical
+1031913	Big Pun	punk
+1031983	Slightly Stoopid	electronic
+1032011	Will Smith	pop
+1032042	Carl Cox	rock
+1032111	Me First & The Gimme Gimmes	rock
+1032135	DJ Skribble	electronic
+1032152	Destiny's Child	pop
+1032160	Elf Power	electronic
+1032177	Momus	electronic
+1032224	Rammstein	rock
+1032261	Teen Idols	pop
+1032358	Cevin Key	electronic
+1032444	The Donnas	rock
+1032453	To Rococo Rot	latin
+1032473	James Iha	electronic
+1032552	Big Bad Voodoo Daddy	rock
+1032577	Blindside	blues
+1032638	Dave Hollister	rock
+1032642	Peter Rauhofer	classical
+1032668	Dropkick Murphys	rock
+1032673	Eddie M.	electronic
+1032674	Feeder	electronic
+1032681	Beulah	folk
+1032683	Abunai!	folk
+1032687	Amon Tobin	electronic
+1032858	Libido	electronic
+1032861	Limp Bizkit	rock
+1032866	Liquid Tension Experiment	electronic
+1032976	Neko Case	electronic
+1033041	Ray Charles	blues
+1033116	Susan Tedeschi	folk
+1033208	True Love Always	folk
+1033236	Mono	electronic
+1033237	Natalie Imbruglia	folk
+1033256	Athenaeum	electronic
+1033274	Cornelius	classical
+1033290	Eve 6	electronic
+1033300	Fuel	metal
+1033337	Propellerheads	electronic
+1033340	*NSYNC	rock
+1033398	Tyrese	folk
+1033411	Jerry Cantrell	country
+1033416	VAST	electronic
+1033427	Big Tymers	metal
+1033451	DMX	electronic
+1033458	Foil	electronic
+1033511	Rialto	latin
+1033537	Soulfly	soul
+1033573	Esthero	latin
+1033577	Harvey Danger	rock
+1033613	Mya	electronic
+1033656	Zao	electronic
+1033688	Catch 22	electronic
+1033697	Cradle Of Filth	punk
+1033707	DJ Irene	electronic
+1033722	Hatebreed	metal
+1033724	Home Grown	folk
+1033785	Rufus Wainwright	rock
+1033794	Spock's Beard	electronic
+1033820	Arab Strap	folk
+1033833	Bright Eyes	rock
+1033843	Creedence Clearwater Revisited	rock
+1033857	Eva Cassidy	pop
+1033873	Jimmy Page & Robert Plant	rock
+1033941	Catatonia	electronic
+1033959	Josh Rouse	rock
+1034003	Add N To (X)	hiphop
+1034047	Kelly Price	pop
+1034066	Project 86	electronic
+1034086	The Disco Biscuits	pop
+1034214	Alicia Keys	pop
+1034276	Aphrodite	electronic
+1034388	Basement Jaxx	jazz
+1034472	Bleu	blues
+1034478	Blinddog Smokin'	blues
+1034619	Cerulean	reggae
+1034651	Chris Cornell	rock
+1034800	The Streetwalkin' Cheetahs	punk
+1034801	System Of A Down	rock
+1034807	Cam'Ron	electronic
+1034831	Neil Finn	rock
+1034862	The Living End	punk
+1034882	Jermaine Dupri	hiphop
+1034883	Lauryn Hill	pop
+1034904	The Black Eyed Peas	pop
+1034943	Eric Johnson [Rock]	rock
+1034988	The Federation	electronic
+1035002	Arch Enemy	metal
+1035010	Fantastic Plastic Machine	electronic
+1035111	N.O.R.E.	electronic
+1035313	Freelight	electronic
+1035426	HammerFall	metal
+1035430	Opeth	metal
+1035473	Eagle-Eye Cherry	rock
+1035477	No Fun At All	electronic
+1035538	Explorers Club	rock
+1035583	Kidneythieves	punk
+1035666	Kottonmouth Kings	rock
+1035709	Phantom Planet	electronic
+1035840	Jennifer Paige	pop
+1035892	Piano Magic	classical
+1035921	Matthew Good Band	rock
+1035926	Orgy	electronic
+1035931	Stretch Princess	pop
+1035933	Bret Michaels	rock
+1036072	Kapena	folk
+1036095	String Cheese Incident	rock
+1036122	Six By Seven	rock
+1036157	Godsmack	rock
+1036165	Gomez	pop
+1036180	Mandalay	folk
+1036439	Kurupt	electronic
+1036449	Aaron Carter	rock
+1036454	Joan Jones	folk
+1036563	Finger Eleven	electronic
+1036607	Divine	electronic
+1036736	Rob Zombie	rock
+1036737	U.N.K.L.E.	electronic
+1036740	Queens Of The Stone Age	rock
+1036743	Spineshank	electronic
+1036746	Boards Of Canada	rock
+1036762	At The Drive-In	rock
+1036769	Dieselboy	rock
+1036814	Satyricon	classical
+1036864	Dimmu Borgir	metal
+1036874	Joydrop	electronic
+1036909	Smartbomb	electronic
+1036968	Nicole J. McCloud	electronic
+1037027	Deep Dish	electronic
+1037066	Paul Van Dyk	rock
+1037379	New Radicals	punk
+1037490	Juvenile	electronic
+1037540	The Agents	electronic
+1037585	The Gloria Record	classical
+1037698	Paul Oakenfold	rock
+1037730	Rick Braun	rock
+1037731	Britney Spears	pop
+1037847	Eminem	hiphop
+1037854	John Digweed	rock
+1037896	Indigenous	folk
+1037936	Jets To Brazil	jazz
+1037937	Skinlab	electronic
+1037956	Hot Boys	rock
+1038101	Clem Snide	electronic
+1038192	Mumbo Gumbo	folk
+1038510	Oleander	electronic
+1038536	Anti-Flag	punk
+1038575	Reid Paley	electronic
+1038645	Lisa	pop
+1038689	Neurotica	electronic
+1038925	Marvelous 3	electronic
+1038931	Loreena McKennitt	folk
+1039031	Pitchshifter	electronic
+1039033	Platypus	punk
+1039046	The Psychedelic Furs	electronic
+1039081	The Beta Band	rock
+1039124	Looper	electronic
+1039222	Blind Guardian	blues
+1039248	Grandpaboy	rock
+1039252	Tin Star	rock
+1039259	James Brown	blues
+1039346	Arling & Cameron	rock
+1039473	SonicFlood	electronic
+1039507	Vengaboys	rock
+1039524	Portable	electronic
+1039675	Buckcherry	rock
+1039723	Tal Bachman	rock
+1039725	Montgomery Gentry	country
+1039809	The Juliana Theory	electronic
+1039877	Static-X	electronic
+1040071	Ja Rule	hiphop
+1040112	Jessica Andrews	pop
+1040138	Dido	pop
+1040219	Simon Says	electronic
+1040247	Pat Green	folk
+1040342	Tarwater	electronic
+1040393	Robbie Williams	rock
+1040666	Jake Andrews	rock
+1040684	Ruff Ryders	rock
+1040692	Jennifer Lopez	pop
+1040711	Godspeed You Black Emperor	metal
+1040742	Chevelle	pop
+1040748	Len	folk
+1040751	SHeDAISY	electronic
+1040802	John Taylor	rock
+1040889	Zebra	electronic
+1041052	P.O.D.	pop
+1041371	The Hellacopters	metal
+1041395	VNV Nation	electronic
+1041512	Reveille	electronic
+1041557	Slipknot	metal
+1041678	Bob Kelly	rock
+1041735	Christina Aguilera	pop
+1041884	ATB	electronic
+1041927	Vibes	electronic
+1042197	The Alkaline Trio	rock
+1042233	DJ Baby Anne	electronic
+1042245	Lacuna Coil	electronic
+1042272	The White Stripes	rock
+1042275	Macy Gray	pop
+1042295	Cam Clarke	electronic
+1042433	Toy-Box	electronic
+1042442	Grind	metal
+1042453	Youngstown	folk
+1042679	H-Blockx	electronic
+1042686	Rilo Kiley	country
+1042701	IQU	electronic
+1042768	Staind	metal
+1042771	Vitamin C	folk
+1042908	Josh Joplin Group	rock
+1042932	Lost Goat	folk
+1042991	Eve	electronic
+1043019	The Go	electronic
+1043051	Mandy Moore	pop
+1043119	Death Cab For Cutie	rock
+1043238	Anastacia	pop
+1043251	Long Beach Dub Allstars	electronic
+1043287	Rich Creamy Paint	hiphop
+1043352	The Bicycle Thief	punk
+1043359	Phil Pritchett	electronic
+1043362	Eric Carr	electronic
+1043363	The Wiseguys	rock
+1043366	Mos Def	hiphop
+1043376	The Killingtons	rock
+1043384	IMx	electronic
+1043388	The Weakerthans	rock
+1043426	Lil' Wayne	hiphop
+1043447	Wendie Colter	country
+1043454	50 Cent	hiphop
+1043477	Sisqo	electronic
+1043556	Immortal	metal
+1043566	A-Teens	hiphop
+1043569	Allister	electronic
+1043663	Flogging Molly	folk
+1043712	Crazy Town	rock
+1043716	M2M	electronic
+1043718	Jessica Simpson	pop
+1043736	Urchin	metal
+1043814	Keith Urban	country
+1043818	Sasha & Digweed	hiphop
+1043833	Kittie	electronic
+1044049	Groove Armada	electronic
+1044050	Marah	folk
+1044066	Mary Mary	folk
+1044075	Eiffel 65	electronic
+1044103	Veronica's Toy	pop
+1044134	Dope	hiphop
+1044164	Chappaquiddick Skyline	rock
+1044366	Pink	pop
+1044422	Tha Eastsidaz	hiphop
+1044428	Supreme Beings Of Leisure	hiphop
+1044486	Trina	pop
+1044487	Sean Paul	rock
+1044498	BBMak	electronic
+1044604	Lucy Pearl	pop
+1044605	3 Doors Down	rock
+1044717	Tahiti 80	folk
+1044862	Saves The Day	electronic
+1044871	A Perfect Circle	pop
+1044908	Tiger Army	rock
+1044915	North Mississippi Allstars	rock
+1044934	Richard Ashcroft	rock
+1044978	Darryl Worley	country
+1044998	Lil' Mo	hiphop
+1044999	Atomic Kitten	electronic
+1045021	Disturbed	metal
+1045024	Papa Roach	rock
+1045053	E.Town Concrete	electronic
+1045169	Speedealer	electronic
+1045175	Ruff Endz	rock
+1045283	Jill Scott	country
+1045303	Alice Deejay	electronic
+1045306	Blue Man Group	blues
+1045339	Soleil Moon	soul
+1045340	S Club	rock
+1045347	Chap Cheezee	country
+1045353	Dynamite Hack	electronic
+1045438	Uncle Kracker	rock
+1045487	The Boondock Saints	rock
+1045518	The Stand	rock
+1045525	Tupac Shakur	hiphop
+1045587	Andy Mackay	rock
+1045614	Pete Tong	rock
+1045696	Nickelback	rock
+1045697	Avant	electronic
+1045701	Nine Days	pop
+1045704	Nelly	hiphop
+1045756	Soul Conversation	soul
+1046217	Rascal Flatts	country
+1046259	Frank Black & The Catholics	folk
+1046331	Ying Yang Twins	folk
+1046360	Relient K	electronic
+1046563	Longwave	electronic
+1046764	Halford	metal
+1046878	Tubeway Army	electronic
+1046918	Arid	folk
+1047054	The (International) Noise Conspiracy	electronic
+1047123	Saint Low	blues
+1047130	Saliva	punk
+1047261	Manfred Mann's Earth Band	folk
+1047426	Plus One	pop
+1047446	Senor Coconut Y Su Conjunto	latin
+1047584	Shadows Fall	electronic
+1047662	The Get Up Kids	rock
+1047703	Sheila Nicholls	country
+1047827	Juliana Hatfield	electronic
+1047997	Bebel Gilberto	latin
+1048124	Maze Featuring Frankie Beverly	electronic
+1048152	Soup	punk
+1048213	Spencer Davis Group	jazz
+1048259	Stacie Orrico	electronic
+1048320	Bow Wow	country
+1048335	Sum 41	metal
+1048336	SX-10	metal
+1048338	T. Rex	rock
+1048353	Wheatus	electronic
+1048362	Black Label Society	metal
+1048392	Mest	folk
+1048473	Steve Morse Band	rock
+1048666	The Sugarman Three	rock
+1048701	Midtown	electronic
+1048825	Taproot	electronic
+1048855	Puritans	punk
+1048925	Afroman	folk
+1048942	The Association	electronic
+1048943	The Ataris	folk
+1048952	Bowling For Soup	pop
+1049159	Muse	electronic
+1049197	Bubba Sparxxx	blues
+1049297	The Dead Milkmen	rock
+1049360	The Distillers	electronic
+1049618	Nickel Creek	rock
+1049642	Nicole [R&B]	r&b
+1049770	Carrie Akre	folk
+1050016	The Lawrence Arms	rock
+1050244	The Mooney Suzuki	electronic
+1050331	The Pimps	punk
+1050340	The Presidents Of The United States of America	electronic
+1050745	Jimi Hendrix Experience	rock
+1050778	Jimmy Page & The Black Crowes	rock
+1050886	Tosca	classical
+1050945	Travoltas	latin
+1051000	Trini Triggs	folk
+1051105	Without Warning	electronic
+1051119	Dezeray's Hammer	metal
+1051149	Vagabond Lovers	pop
+1051565	Beyonce	pop
+1051583	OPM	pop
+1051683	Johnny Vicious	rock
+1051689	Jon Bon Jovi	rock
+1051730	Ladytron	electronic
+1051787	Mudvayne	metal
+1052054	Good Charlotte	folk
+1052069	Nelly Furtado	pop
+1052094	Trick Daddy	hiphop
+1052200	Lil Jon & The East Side Boyz	hiphop
+1052234	New Found Glory	rock
+1052237	Ryan Adams	rock
+1052238	The Januaries	electronic
+1052317	Badly Drawn Boy	hiphop
+1052381	Tony Iommi	metal
+1052470	Bodyjar	electronic
+1052512	The Faint	folk
+1052944	Rollins Band	rock
+1052981	Toilet Boys	punk
+1053197	Dexter Freebish	electronic
+1053203	The Union Underground	rock
+1053276	Draco	metal
+1053305	Nonpoint	electronic
+1053318	CKY (Camp Kill Yourself)	punk
+1053331	Fenix TX	electronic
+1053333	Home Town Hero	rock
+1053334	Hot Rod Circuit	rock
+1053349	O.A.R.	electronic
+1053387	Thursday	electronic
+1053407	Ludacris	hiphop
+1053438	Musiq	electronic
+1053507	Linkin Park	rock
+1053533	Poison The Well	punk
+1053620	Samantha Mumba	folk
+1053653	Coldplay	rock
+1053686	Jaheim	electronic
+1053694	St. Germain	classical
+1053723	Fozzy	metal
+1053890	Soilwork	folk
+1053919	Kasey Chambers	electronic
+1053920	The Clark Family Experience	folk
+1053935	A	electronic
+1053974	St. Lunatics	punk
+1053975	Cleopatra	electronic
+1053987	Pepe Deluxe	pop
+1054005	3LW	latin
+1054073	Alien Ant Farm	electronic
+1054076	The BellRays	rock
+1054172	Diffuser	electronic
+1054173	American Hi-Fi	electronic
+1054175	The Hives	electronic
+1054304	Dzihan & Kamien	folk
+1054581	Vegas DeMilo	electronic
+1054628	Another Man Down	punk
+1054967	Bad Ronald	punk
+1055282	Mushroomhead	electronic
+1056033	Deep Banana Blackout	electronic
+1056111	Joe Bonamassa	rock
+1056243	The K.G.B.	hiphop
+1056336	Love Seed Mama Jump	pop
+1056457	Elbow	rock
+1056784	Flaw	electronic
+1056930	Pete Yorn	rock
+1057308	Honey Tongue	folk
+1057493	Lucky 7	rock
+1057536	Kicked In The Head	rock
+1057643	Glassjaw	electronic
+1058000	Ace Troubleshooter	electronic
+1058016	Straight No Chaser	rock
+1058183	Felix Da Housecat	hiphop
+1058290	Spaceheads	punk
+1058519	Ray Romano	rock
+1058781	Citizen Cope	electronic
+1058876	Motochrist	metal
+1058980	Drowning Pool	punk
+1059168	Susan Robkin	folk
+1059418	Flickerstick	electronic
+1061328	Shana Morrison	country
+1061435	The Apex Theory	electronic
+1061734	Crossbreed	electronic
+1061857	Trey Anastasio	jazz
+1062098	Dispatch	electronic
+1062104	Tenacious D	rock
+1062238	Sugarcult	punk
+1062394	Frankie Valli & The Four Seasons	rock
+1062602	Pressure 4-5	electronic
+1062622	Eve To Adam	electronic
+1062691	Unloco	folk
+1063326	Rearview Mirror	electronic
+1063369	Corporate Avenger	metal
+1063484	OneSideZero	electronic
+1063662	Ponticello	folk
+1063721	Burning Brides	punk
+1063757	Sound Tribe Sector 9	electronic
+1063842	Rakit	folk
+1064214	Alpha Cat	electronic
+1064441	Something Corporate	electronic
+1064535	Further Seems Forever	electronic
+1064645	The Strokes	rock
+1065507	And You Will Know Us By The Trail Of Dead	punk
+1066192	Stereomud	electronic
+1066355	40 Below Summer	pop
+1066509	BMF	metal
+1066818	Grand Champeen	folk
+1067501	Seven Channels	electronic
+1067553	Earshot	electronic
+1068537	Lizzie West	pop
+1068684	Tantric	electronic
+1068844	Ted Leo & The Pharmacists	rock
+1068848	Trick Pony	rock
+1069020	Ramsay Midwood	country
+1069317	Joey Ramone	rock
+1069899	Gabriel Mann	electronic
+1070226	3rd Strike	metal
+1070330	One Time Angels	rock
+1070728	Lupine Howl	folk
+1070773	My Vitriol	electronic
+1070831	Ferry Corsten	electronic
+1071097	Full Nine	rock
+1072783	Sinomatic	electronic
+1074651	Scott Miller	rock
+1075452	MercyMe	electronic
+1077556	Killswitch Engage	metal
+1078363	Michelle Branch	folk
+1079440	Before Braille	folk
+1079523	Blake Shelton	country
+1079828	Thrice	electronic
+1081608	Craig David	rock
+1082975	Josh Groban	pop
+1083194	Dashboard Confessional	rock
+1083997	Hesher	folk
+1084504	City High	pop
+1084656	Jason Ringenberg	rock
+1084728	Kissinger	rock
+1084751	The New Pornographers	rock
+1086547	Chris Cagle	rock
+1087166	Mark Olson & The Creekdippers	rock
+1087642	DJ Tiesto	electronic
+1088273	Rubyblue	electronic
+1089503	Justin Timberlake	pop
+1089770	Lil' Flip	electronic
+1091582	Starsailor	rock
+1092760	Black Rebel Motorcycle Club	rock
+1092837	Avenged Sevenfold	rock
+1092985	Watashi Wa	folk
+1092992	Lars Frederiksen & The Bastards	rock
+1093012	Atmosphere	electronic
+1093914	34 Satellite	electronic
+1096958	Jack Ingram	jazz
+1097164	Louie DeVito	jazz
+1097179	N.E.R.D.	electronic
+1097183	The Avalanches	rock
+1097201	Peaches	pop
+1097205	Turin Brakes	electronic
+1097206	Zero 7	electronic
+1097215	Ian Van Dahl	rock
+1097218	Gorillaz	electronic
+1097226	The Rosenbergs	rock
+1097254	Scapegoat Wax	punk
+1097302	Slippers	electronic
+1097307	Eden's Crush	rock
+1097330	Jadakiss	electronic
+1097346	Amanda	pop
+1097348	Sunshine Anderson	pop
+1097351	Angie Martinez	pop
+1097387	India.Arie	classical
+1097392	Ours	folk
+1097405	The Calling	electronic
+1097406	Willa Ford	country
+1097408	Mark McGuinn	rock
+1097422	T.I.	electronic
+1097428	Lucky Boys Confusion	hiphop
+1097444	Glen Phillips	rock
+1097449	Sub.Bionic	electronic
+1097450	Sigur Ros	latin
+1097451	Dream Street	electronic
+1097460	Mystic	electronic
+1097463	Pillar	electronic
+1097471	D-12	electronic
+1097486	Adema	electronic
+1097490	Nivea	electronic
+1097494	Butterfly Jones	electronic
+1097498	Fabolous	electronic
+1097501	Zohar	folk
+1097504	Puddle Of Mudd	punk
+1097507	DJ Gius	electronic
+1097508	The Starting Line	electronic
+1097512	Donna De Lory	country
+1097521	Ill Nino	electronic
+1097526	Abandoned Pools	electronic
+1097529	Breaking Point	electronic
+1097531	Prime Sth	soul
+1097534	Pete.	pop
+1097545	Cartoons DK	pop
+1097548	Mr. Cheeks	folk
+1097550	Nappy Roots	folk
+1097552	Minus	electronic
+1097564	Default	electronic
+1097566	KeKe Wyatt	country
+1097567	Snapdragon	electronic
+1097579	B2K	electronic
+1097580	Pussy 2000	punk
+1097583	Oysterhead	punk
+1097585	Hoobastank	hiphop
+1097586	Mpress	electronic
+1097588	Soul Hooligan	soul
+1097591	Roland Orzabal	electronic
+1097595	Airport 5	electronic
+1097613	John Mayer	rock
+1097627	Russell Crowe & 30 Odd Foot Of Grunts	hiphop
+1097629	Chomsky	electronic
+1097632	Dominic Chianese	folk
+1097654	SUV	electronic
+1097660	Aereogramme	electronic
+1097661	Custom	electronic
+1097892	Lovage	electronic
+1097900	Soluna	latin
+1097903	Mercyside	metal
+1097904	The Blue Mockingbirds	blues
+1097906	Colourbox	electronic
+1097930	Finch	electronic
+1097938	Bohren & Der Club Of Gore	metal
+1097941	Brendan Canty	rock
+1097943	Kim Gordon	country
+1097969	Lostprophets	electronic
+1097970	Vanessa Carlton	pop
+1097972	Andrew W.K.	electronic
+1097981	Course Of Nature	folk
+1097985	Emerson Drive	electronic
+1097987	Iio	electronic
+1097990	DJ Encore	electronic
+1097991	Tweet	electronic
+1097992	Hedder	metal
+1097995	The Green Room	rock
+1097996	Glenn Lewis	rock
+1098006	Darren Hayes	rock
+1098025	Regency Buck	country
+1098026	Daniel Debourg	electronic
+1098030	Matthew	electronic
+1098032	12 Stones	rock
+1098042	Days Away	pop
+1098045	Riddlin' Kids	rock
+1098048	Simple Plan	pop
+1098049	Lou Mosley	jazz
+1098050	Beat Crusaders	punk
+1098051	Ben Folds	rock
+1098053	Tiger Saw	electronic
+1098068	Student Rick	electronic
+1098069	Kosheen	folk
+1098071	The Becky Chace Band	rock
+1098073	The Flying Tigers	rock
+1098074	Tommy Lee	country
+1098085	Snowdogs	folk
+1098091	Demolition Squad	punk
+1098093	Harry Manx	folk
+1098094	Eleanor McCain	pop
+1098095	Dave D'Angelo	rock
+1098099	Taking Back Sunday	punk
+1098102	Go Back Snowball	electronic
+1098109	Avril Lavigne	pop
+1098111	Tom & Susan Doyle	folk
+1098113	Clinic	electronic
+1098128	Sparta	electronic
+1098132	Dry Cell	electronic
+1098139	Ben Green	rock
+1098146	Truth Hurts	punk
+1098149	The Kickovers	rock
+1098150	Consonant	classical
+1098151	Lollipop Lust Kill	punk
+1098152	Wayne	rock
+1098153	Norah Jones	pop
+1098161	TRUSTcompany	electronic
+1098165	Echobrain	electronic
+1098168	The Pasties	folk
+1098169	Whitee	folk
+1098172	Pretty Girls Make Graves	pop
+1098173	Morel	folk
+1098176	Fighting Jacks	punk
+1098182	Kinky	punk
+1098185	Dropline	electronic
+1098192	Simon & Milo	rock
+1098193	Audiovent	electronic
+1098194	Chiedza	folk
+1098195	Box Car Racer	rock
+1098198	Desmond Williams	electronic
+1098200	Cato Salsa Experience	latin
+1098203	Eileen Rose	folk
+1098208	Zwan	folk
+1098209	Smilez & Southstar	soul
+1098223	Piebald	folk
+1098224	Yellowcard	rock
+1098227	Chad Kroeger	rock
+1098234	Khia	folk
+1098236	Dirty Vegas	punk
+1098237	Bomb Child	punk
+1098239	Gush	electronic
+1098242	Jeff Trott	rock
+1098262	King B.A.V.	rock
+1098263	Non Phixion	electronic
+1098270	Seether	rock
+1098273	Styles	electronic
+1098274	Faith Kleppinger	pop
+1098275	Still Breathing	folk
+1098278	Capitol K	electronic
+1098279	The Vines	electronic
+1098280	Mull Historical Society	folk
+1098287	Atreyu	electronic
+1098288	Interpol	rock
+1098301	Loudermilk	electronic
+1098304	Floetry	electronic
+1098306	Superjoint Ritual	metal
+1098307	Dave Pirner	rock
+1098310	Howie Day	rock
+1098311	Mad At Gravity	electronic
+1098312	Seven & The Sun	rock
+1098314	Ray Buchanan	rock
+1098324	Ugly Casanova	electronic
+1098329	Breaking Benjamin	rock
+1098336	Switched	electronic
+1098337	Kelly Osbourne	rock
+1098343	Silvercrush	electronic
+1098344	Koop	folk
+1098345	DJ Sammy & Yanou	electronic
+1098347	Justincase	electronic
+1098349	The Used	electronic
+1098350	Kev Russell's Junker	jazz
+1098352	Ming Star	electronic
+1098353	Maroon 5	rock
+1098355	The Buzzhorn	electronic
+1098363	Play	electronic
+1098365	Yesterday's Kids	pop
+1098366	Ben Weasel	rock
+1098384	Frou Frou	electronic
+1098385	Daniel Bedingfield	pop
+1098386	Amerie	electronic
+1098391	Side Walk Slam	rock
+1098395	MewithoutYou	punk
+1098397	Havalina	latin
+1098405	Division Of Laura Lee	folk
+1098406	Syd	electronic
+1098425	Pulse Ultra	electronic
+1098426	Zeromancer	electronic
+1098431	T.A.T.U.	electronic
+1098435	Liberty X	electronic
+1098440	Brand New Sin	electronic
+1098443	Secondhand Jive	jazz
+1098444	Gavin Rossdale	country
+1098445	Stone Sour	rock
+1098451	MysteryPop	electronic
+1098452	Theory Of A Deadman	metal
+1098453	Murderdolls	metal
+1098456	Sondre Lerche	blues
+1098458	Reflection Theory	electronic
+1098460	Mastretta	electronic
+1098461	The All-American Rejects	rock
+1098463	Chris Emerson	rock
+1098468	Hem	metal
+1098472	Sahara Hotnights	hiphop
+1098475	Sera	classical
+1098478	The Warm Guns	metal
+1098481	Jimmy Fallon	pop
+1098486	Dana Glover	country
+1098496	Mclusky	electronic
+1098503	Tony De Silva	rock
+1098508	Authority Zero	electronic
+1098510	Elliot Martin	electronic
+1098513	Mark Austin Band	rock
+1098529	Kelly Clarkson	country
+1098559	Stereo Fuse	electronic
+1098563	4 Strings	classical
+1098566	New Disease	electronic
+1098571	Yeah Yeah Yeahs	rock
+1098573	Robert Randolph	blues
+1098576	Feel	electronic
+1098583	John Rzeznik	rock
+1098585	November Factory	electronic
+1098588	Audioslave	electronic
+1098590	The Agenda	electronic
+1098595	Trapt	electronic
+1098602	Val Emmich	electronic
+1098609	Soniadada	classical
+1098612	Vivian Green	electronic
+1098635	Flashlight Brown	electronic
+1098639	Citizen Bird	electronic
+1098640	From Autumn To Ashes	folk
+1098643	Rudy	rock
+1098648	Noise Therapy	electronic
+1098650	Jason Mraz	rock
+1098659	Steve Holt	rock
+1098668	The Streets	hiphop
+1098669	Kelly Rowland	country
+1098678	Socialburn	electronic
+1098681	Weekend Players	folk
+1098682	HypoFixx	electronic
+1098687	Sarah Fimm	electronic
+1098703	Mount Sims	folk
+1098710	The Early November	electronic
+1098711	Renee Cologne	electronic
+1098725	DJ Sammy	electronic
+1098743	Slick Idiot	punk
+1098744	Electric Six	electronic
+1098748	The Raveonettes	rock
+1098749	Circus Devils	rock
+1098750	Transplants	electronic
+1098757	Dead Poetic	punk
+1098758	The D4	electronic
+1098764	Outspoken	punk
+1098767	Lucy Woodward	electronic
+1098770	Ruby James	folk
+1098780	Fanny	folk
+1098781	Kathleen Edwards	folk
+1098787	LiveonRelease	electronic
+1098789	Warren Zanes	rock
+1098795	The Deuce Project	rock
+1098796	Jeff Hanson	rock
+1098797	Boomkat	electronic
+1098798	Evanescence	rock
+1098799	Marques Houston	jazz
+1098800	Count The Stars	rock
+1098805	Hot Action Cop	hiphop
+1098806	The Sonics	electronic
+1098813	Pay The Girl	pop
+1098815	Lasgo	latin
+1098816	Johnny Marr + The Healers	rock
+1098830	Wayne Wonder	pop
+1098831	Lisa Marie Presley	rock
+1098836	Jesse Malin	rock
+1098838	Marlow	country
+1098851	The Beautiful Mistake	electronic
+1098852	Hot Hot Heat	metal
+1098855	Trench Coat Yuppies	punk
+1098859	Russ	rock
+1098883	Grade 8	pop
+1098884	Brick Bath	folk
+1098889	M. Ward	electronic
+1098895	Hilary Duff	pop
+1098898	Josh Kelley	country
+1098902	Revis	electronic
+1098912	Celldweller	electronic
+1098919	The Datsuns	rock
+1098921	Lillix	electronic
+1098923	Jimmy Wayne	country
+1098952	Tangiers	folk
+1098953	Brand New	electronic
+1098958	Spin 66	electronic
+1098959	Lee Gibson	country
+1098960	The Premiums	electronic
+1098970	The Heavils	rock
+1098974	Franky Perez	electronic
+1098977	Michael Lovitt	electronic
+1098988	Brian McComas	rock
+1098992	Apryl Lauren	electronic
+1098993	Stefano	electronic
+1099002	The Postal Service	pop
+1099019	Rachel Farris	pop
+1099032	Presence	electronic
+1099046	The Libertines	rock
+1099096	Smile Empty Soul	soul
+1099097	Chingy	folk
+1099119	Big Dismal	punk
+1099120	Cauterize	electronic
+1099141	The Black Keys	rock
+1099142	Highwater Rising	rock
+1099145	Frankie J	jazz
+1099155	Dave Gahan	rock
+1099173	Jet	electronic
+1099189	Junior Senior	folk
+1099316	The Polyphonic Spree	electronic
+1099317	Billy Talent	rock
+1099325	Ima Robot	electronic
+1099342	Damien Rice	electronic
+1099386	Story Of The Year	folk
+1099388	Fefe Dobson	folk
+1099394	Coheed & Cambria	rock
+1099435	Dave Matthews	rock
+1099511	Rufio	latin
+1099513	The Darkness	metal
+1099605	The Sleepy Jackson	folk
+1099693	The Thrills	rock
+1100044	Beloved [US]	pop
+1100995	Courtney Love	pop
